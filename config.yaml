@@ -1,0 +1,238 @@
+Chains:
+  - Name: Arbitrum
+    RPC: "https://arbitrum-one-rpc.publicnode.com"
+    Tokens:
+    - Symbol: ETH
+      Address: "0xcA11bde05977b3631167028862bE2a173976CA11"
+      Decimals: 18
+    - Symbol: WETH
+      Address: "0x82af49447d8a07e3bd95bd0d56f35241523fbab1"
+      Decimals: 18
+    - Symbol: USDC
+      Address: "0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8"
+      Decimals: 6
+    - Symbol: USDT
+      Address: "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9"
+      Decimals: 6
+    - Symbol: DAI
+      Address: "0xda10009cbd5d07dd0cecc66161fc93d7c9000da1"
+      Decimals: 18
+    - Symbol: ARB
+      Address: "0x912ce59144191c1204e64559fe8253a0e49e6548"
+      Decimals: 18
+    - Symbol: STG
+      Address: "0x6694340fc020c5e6b96567843da2df01b2ce1eb6"
+      Decimals: 18
+    - Symbol: AIDOGE
+      Address: "0x09e18590e8f76b6cf471b3cd75fe1a1a9d2b2c2b"
+      Decimals: 18
+    - Symbol: BTCB
+      Address: "0x2297aEbD383787A160DD0d9F71508148769342E3"
+      Decimals: 18
+  - Name: Arbitrum Nova
+    RPC: "https://arbitrum-nova.blockpi.network/v1/rpc/public"
+    Tokens:
+    - Symbol: ETH
+      Address: "0xcA11bde05977b3631167028862bE2a173976CA11"
+      Decimals: 18
+    - Symbol: WETH
+      Address: "0x722e8bdd2ce80a4422e880164f2079488e115365"
+      Decimals: 18
+    - Symbol: USDC
+      Address: "0x750ba8b76187092b0d1e87e28daaf484d1b5273b"
+      Decimals: 6
+    - Symbol: DAI
+      Address: "0xda10009cbd5d07dd0cecc66161fc93d7c9000da1"
+      Decimals: 18
+    - Symbol: ARB
+      Address: "0xf823c3cd3cebe0a1fa952ba88dc9eef8e0bf46ad"
+      Decimals: 18
+  - Name: Base
+    RPC: "https://base-mainnet.public.blastapi.io"
+    Tokens:
+    - Symbol: ETH
+      Address: "0xcA11bde05977b3631167028862bE2a173976CA11"
+      Decimals: 18
+    - Symbol: WETH
+      Address: "0x4200000000000000000000000000000000000006"
+      Decimals: 18
+    - Symbol: USDC
+      Address: "0x833589fcd6edb6e08f4c7c32d4f71b54bda02913"
+      Decimals: 6
+    - Symbol: USDbC
+      Address: "0xd9aaec86b65d86f6a7b5b1b0c42ffa531710b6ca"
+      Decimals: 6
+    - Symbol: DAI
+      Address: "0x50c5725949a6f0c72e6c4a641f24049a917db0cb"
+      Decimals: 18
+    - Symbol: STG
+      Address: "0xE3B53AF74a4BF62Ae5511055290838050bf764Df"
+      Decimals: 18
+  - Name: Blast
+    RPC: "https://blast.blockpi.network/v1/rpc/public"
+    Tokens:
+    - Symbol: ETH
+      Address: "0xcA11bde05977b3631167028862bE2a173976CA11"
+      Decimals: 18
+    - Symbol: WETH
+      Address: "0x4300000000000000000000000000000000000004"
+      Decimals: 18
+    - Symbol: USDB
+      Address: "0x4300000000000000000000000000000000000003"
+      Decimals: 18
+    - Symbol: OHNO
+      Address: "0x000000daa580e54635a043d2773f2c698593836a"
+      Decimals: 18
+  - Name: Bsc
+    RPC: "https://bsc-mainnet.public.blastapi.io"
+    Tokens:
+    - Symbol: BNB
+      Address: "0xcA11bde05977b3631167028862bE2a173976CA11"
+      Decimals: 18
+    - Symbol: WBNB
+      Address: "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c"
+      Decimals: 18
+    - Symbol: USDT
+      Address: "0x55d398326f99059ff775485246999027b3197955"
+      Decimals: 18
+    - Symbol: USDC
+      Address: "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d"
+      Decimals: 18
+    - Symbol: STG
+      Address: "0xb0d502e938ed5f4df2e681fe6e419ff29631d62b"
+      Decimals: 18
+  - Name: Ethereum
+    RPC: "https://ethereum.blockpi.network/v1/rpc/public"
+    Tokens:
+    - Symbol: ETH
+      Address: "0xcA11bde05977b3631167028862bE2a173976CA11"
+      Decimals: 18
+    - Symbol: WETH
+      Address: "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+      Decimals: 18
+    - Symbol: USDC
+      Address: "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48"
+      Decimals: 6
+    - Symbol: USDT
+      Address: "0xdac17f958d2ee523a2206206994597c13d831ec7"
+      Decimals: 6
+    - Symbol: DAI
+      Address: "0x6b175474e89094c44da98b954eedeac495271d0f"
+      Decimals: 18
+  - Name: Fantom
+    RPC: "https://rpc.ankr.com/fantom"
+    Tokens:
+    - Symbol: FTM
+      Address: "0xcA11bde05977b3631167028862bE2a173976CA11"
+      Decimals: 18
+    - Symbol: WFTM
+      Address: "0x21be370d5312f44cb42ce377bc9b8a0cef1a4c83"
+      Decimals: 18
+    - Symbol: USDC
+      Address: "0x04068da6c83afcfa0e13ba15a6696662335d5b75"
+      Decimals: 6
+    - Symbol: STG
+      Address: "0x321162Cd933E2Be498Cd2267a90534A804051b11"
+      Decimals: 18
+    - Symbol: WETH
+      Address: "0x74b23882a30290451A17c44f4F05243b6b58C76d"
+      Decimals: 18
+  - Name: Linea
+    RPC: "https://linea.blockpi.network/v1/rpc/public"
+    Tokens:
+    - Symbol: ETH
+      Address: "0xcA11bde05977b3631167028862bE2a173976CA11"
+      Decimals: 18
+    - Symbol: WETH
+      Address: "0xe5d7c2a44ffddf6b295a15c148167daaaf5cf34f"
+      Decimals: 18
+    - Symbol: USDC
+      Address: "0x176211869ca2b568f2a7d4ee941e073a821ee1ff"
+      Decimals: 6
+    - Symbol: USDT
+      Address: "0xa219439258ca9da29e9cc4ce5596924745e12b93"
+      Decimals: 6
+    - Symbol: DAI
+      Address: "0x4af15ec2a0bd43db75dd04e62faa3b8ef36b00d5"
+      Decimals: 18
+    - Symbol: LXP
+      Address: "0xd83af4fbd77f3ab65c3b1dc4b38d7e67aecf599a"
+      Decimals: 18
+  - Name: Optimism
+    RPC: "https://endpoints.omniatech.io/v1/op/mainnet/public"
+    Tokens:
+    - Symbol: ETH
+      Address: "0xcA11bde05977b3631167028862bE2a173976CA11"
+      Decimals: 18
+    - Symbol: WETH
+      Address: "0x4200000000000000000000000000000000000006"
+      Decimals: 18
+    - Symbol: USDC.e
+      Address: "0x7f5c764cbc14f9669b88837ca1490cca17c31607"
+      Decimals: 6
+    - Symbol: USDT
+      Address: "0x94b008aa00579c1307b0ef2c499ad98a8ce58e58"
+      Decimals: 6
+    - Symbol: DAI
+      Address: "0xda10009cbd5d07dd0cecc66161fc93d7c9000da1"
+      Decimals: 18
+    - Symbol: OP
+      Address: "0x4200000000000000000000000000000000000042"
+      Decimals: 18
+    - Symbol: STG
+      Address: "0x296F55F8Fb28E498B858d0BcDA06D955B2Cb3f97"
+      Decimals: 18
+  - Name: Polygon
+    RPC: "https://polygon.blockpi.network/v1/rpc/public"
+    Tokens:
+    - Symbol: MATIC
+      Address: "0xcA11bde05977b3631167028862bE2a173976CA11"
+      Decimals: 18
+    - Symbol: WMATIC
+      Address: "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270"
+      Decimals: 18
+    - Symbol: USDC.e
+      Address: "0x2791bca1f2de4661ed88a30c99a7a9449aa84174"
+      Decimals: 6
+    - Symbol: USDT
+      Address: "0xc2132d05d31c914a87c6611c10748aeb04b58e8f"
+      Decimals: 6
+    - Symbol: DAI
+      Address: "0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063"
+      Decimals: 18
+    - Symbol: STG
+      Address: "0x2f6f07cdcf3588944bf4c42ac74ff24bf56e7590"
+      Decimals: 18
+  - Name: Scroll
+    RPC: "https://scroll-mainnet.public.blastapi.io"
+    Tokens:
+    - Symbol: ETH
+      Address: "0xcA11bde05977b3631167028862bE2a173976CA11"
+      Decimals: 18
+    - Symbol: WETH
+      Address: "0x5300000000000000000000000000000000000004"
+      Decimals: 18
+    - Symbol: USDC
+      Address: "0x06efdbff2a14a7c8e15944d1f4a48f9f95f663a4"
+      Decimals: 6
+    - Symbol: USDT
+      Address: "0xf55bec9cafdbe8730f096aa55dad6d22d44099df"
+      Decimals: 6
+    - Symbol: DAI
+      Address: "0xca77eb3fefe3725dc33bccb54edefc3d9f764f97"
+      Decimals: 18
+  - Name: Zora
+    RPC: "https://rpc.zora.energy"
+    Tokens:
+    - Symbol: ETH
+      Address: "0xcA11bde05977b3631167028862bE2a173976CA11"
+      Decimals: 18
+    - Symbol: WETH
+      Address: "0x4200000000000000000000000000000000000006"
+      Decimals: 18
+    - Symbol: USDT
+      Address: "0x42aa4D3275aaf1e47589825639936EFcBC9F9b65"
+      Decimals: 6
+    - Symbol: DAI
+      Address: "0x80DBdF647338aF309d65AFe29A201d74B4F9B0b2"
+      Decimals: 18
