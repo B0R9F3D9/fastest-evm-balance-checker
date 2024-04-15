@@ -1,6 +1,8 @@
 # Чекер балансов EVM сетей
 **12 сетей, 1000 кошельков, 5 секунд**
 
+https://github.com/B0R9F3D9/fastest-evm-balance-checker/assets/131712860/b8ae5772-3586-43c9-827d-42b1fff889b2
+
 # Доступные Сети
 **Arbitrum, Arbitrum Nova, Base, Blast, BSC, Ethereum, Fantom, Linea, Optimism, Polygon, Scroll, Zora. Впрочем можно добавить любую EVM сеть**
 
@@ -9,6 +11,8 @@
   
 # Установка
 #### *Чтобы всё отображалось корректно лучше использовать VS Code или Windows Terminal*
+* [Скачиваем и устанавливаем Golang](https://go.dev/dl/)
+
 Открываем cmd и прописываем:
 1. `cd путь/к/проекту` 
 2. `go mod download` 
