@@ -4,7 +4,7 @@ go 1.22.0
 
 require (
 	github.com/AlecAivazis/survey/v2 v2.3.7
-	github.com/ethereum/go-ethereum v1.13.14
+	github.com/ethereum/go-ethereum v1.13.15
 	github.com/forta-network/go-multicall v0.0.0-20230701154355-9467c4ddaa83
 	gopkg.in/yaml.v2 v2.4.0
 )
